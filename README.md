@@ -1,9 +1,9 @@
-### Assignment
+## Assignment
 
 The function will return the correct conversion if the supplied problems are properly formatted, otherwise, it will
 return a string that describes an error that is meaningful to the user.
 
-## Situations that will return an error:
+### Situations that will return an error:
 If there are too many problems supplied to the function.
 The limit is five, anything more will return: Error: Too many problems.
 
@@ -25,10 +25,6 @@ There should be four spaces between each problem.
 There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem
 individually. (The example above shows what this should look like.)
 
-
-### Development
-Write your code in arithmetic_arranger.py. For development, you can use main.py to test your arithmetic_arranger()
-function. Click the "run" button and main.py will run.
 
 ### Testing
 The unit tests for this project are in test_module.py. We are running the tests from test_module.py in main.py for your
